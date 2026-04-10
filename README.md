@@ -1,0 +1,2 @@
+# GetAmped_Optimize_Slanted_Run
+优化因为垃圾键盘导致的GA无法起斜问题
